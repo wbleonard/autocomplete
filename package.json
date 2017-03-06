@@ -1,0 +1,17 @@
+{
+  "name": "autocomplete",
+  "description": "A prototype of how autocomplete could be achieved using Redis with Node.js on Google App Engine.",
+  "version": "0.0.1",
+  "private": true,
+  "license": "Apache Version 2.0",
+  "author": "W. Brian Leonard",
+  "engines": {
+    "node": ">=4.3.2"
+  },
+  "dependencies": {
+    "nconf": "0.8.4",
+    "redis": "2.6.5",
+    "jquery": "3.1.1",
+    "jsdom": "9.11.0"
+  }
+}
